@@ -107,8 +107,5 @@ function pronounceWord(word) {
   utterance.lang = "en-EN"; // English
   window.speechSynthesis.speak(utterance);
 }
-```
-
-For More >> you can explore this implementation 👉 [https://codepen.io/Ferdous-Zihad/pen/PwoJMmJ](https://codepen.io/Ferdous-Zihad/pen/PwoJMmJ)
 
 ---
